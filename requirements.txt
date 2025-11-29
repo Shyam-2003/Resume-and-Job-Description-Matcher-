@@ -1,0 +1,16 @@
+# Requirements for Resume and Job Description Matcher App
+
+# Streamlit for building the web app interface
+streamlit>=1.38.0
+
+# PyPDF2 for extracting text from PDF resumes and job descriptions
+PyPDF2>=3.0.1
+
+# LangChain core components (prompt templates, parsers)
+langchain-core>=0.3.0
+
+# LangChain Ollama integration for local LLMs
+langchain-ollama>=0.1.0
+
+# Ollama backend for running models like Llama locally
+ollama>=0.1.0
