@@ -17,3 +17,9 @@ It uses **LangChain + Ollama** for LLM‑powered analysis and **PyPDF2** for PDF
   - Scores (out of 10)
   - Summary
   - Suggestions for improvement
+
+# To install dependencies
+  '''pip install -r requirements.txt
+
+# To Run a Application in web
+  '''streamlit run main.py
